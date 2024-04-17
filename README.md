@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roni</h1>
-<h3 align="center">A software developer with passion towards the web, automation and the cloud. Driven to improve at my craft, I love the challenge of tasks spanning all the way from web applications to industrial IoT.</h3>
+<h3 align="center">A software developer with passion towards data, automation and the cloud. Driven to improve at my craft, I love challenges spanning all the way from web applications to industrial IoT.</h3>
 
 - 📫 How to reach me **roni.palva-aho@pinja.com**
 

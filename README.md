@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roni</h1>
-<h3 align="center">A software developer with passion towards data, automation and the cloud. Driven to improve at my craft, I love challenges spanning all the way from web applications to industrial IoT.</h3>
+<h3 align="center">A software developer with passion towards data, automation and the cloud. I have years of working experience with systems spanning from web applications to industrial IoT. Driven to improve at my craft, I am currently working on a master's in software engineering and data science.</h3>
+<h3 align="center">I am most proficient with .NET, JavaScript/TypeScript and Java based technology stacks.</h3>
 
 - 📫 How to reach me **roni.palva-aho@pinja.com**
 
